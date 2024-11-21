@@ -2,8 +2,9 @@
 ## Привет! Я Александр 👋
 
 [![Header](https://github.com/SoulEmper0r/SoulEmper0r/blob/main/assets/GitHub.gif)](https://soulemper0r.github.io/Site/index.html)
-
+![Profile_views](https://komarev.com/ghpvc/?username=SoulEmper0r&color=blueviolet&style=plastic)
 ## Обо мне
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+Australia+VIC+WA+NT+Hand+Precursive&duration=3000&pause=10&center=&vCenter=&repeat=&random=&width=435&lines=%D0%AF+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82)](https://git.io/typing-svg)
 Программист с опытом разработки веб-приложений и бэкенда. У меня есть опыт работы с различными языками программирования, фреймворками и инструментами, и я стремлюсь к постоянному развитию и улучшению своих навыков.
 
 ## Ключевые навыки
