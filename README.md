@@ -6,7 +6,7 @@
 ![Profile_views](https://komarev.com/ghpvc/?username=SoulEmper0r&color=blueviolet&style=plastic)
 ## Обо мне
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+Australia+VIC+WA+NT+Hand+Precursive&duration=2000&pause=10&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=%D0%AF+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82)](https://soulemper0r.github.io/Site/index.html)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+Australia+VIC+WA+NT+Hand+Precursive&duration=2000&pause=10&width=435&lines=%D0%AF+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82)](https://soulemper0r.github.io/Site/index.html)
 
 Программист с опытом разработки веб-приложений и бэкенда. У меня есть опыт работы с различными языками программирования, фреймворками и инструментами, и я стремлюсь к постоянному развитию и улучшению своих навыков.
 
