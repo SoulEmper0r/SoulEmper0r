@@ -6,7 +6,9 @@
 ![Profile_views](https://komarev.com/ghpvc/?username=SoulEmper0r&color=blueviolet&style=plastic)
 
 <p align="center">
-  <a href="https://soulemper0r.github.io/Site/index.html" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 4px;">Посетите мой личный сайт</a>
+  <a href="https://soulemper0r.github.io/Site/index.html">
+    <img src="https://github.com/SoulEmper0r/SoulEmper0r.github.io/blob/main/Site/images/button.jpg" alt="Посетите мой личный сайт" style="width:200px;height:50px;">
+  </a>
 </p>
 
 ## Обо мне
